@@ -5,4 +5,6 @@ Intended just as a place to organise my COMP188 research project journals and to
 
 [Goto my binder](https://mybinder.org/v2/gh/OllieZheng/Jupyter-Research-Journals/master). You can run my journals there without dealing with pesky system stuff.
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/OllieZheng/Jupyter-Research-Journals/master)
+
 _Warning that 'data' contains large amounts of it._
