@@ -7,4 +7,6 @@ Click the icon above to launch this from the cloud, so you don't have to worry a
 
 Intended just as a place to organise my COMP188 research project journals and to learn and get used to some basic git.
 
-_Warning that 'data' contains large amounts of it._
+> _Warning that 'data' contains large amounts of it._
+
+> _Running MyBinder might be slow to load up_
