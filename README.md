@@ -10,3 +10,5 @@ Intended just as a place to organise my COMP188 research project journals and to
 > _Warning that 'data' contains large amounts of it._
 
 > _Running MyBinder might be slow to load up_
+
+Moved to [GitLab Repo](https://gitlab.com/OllieZheng/COMP188_NLP_ML_by_44609620) due to Github memory limitations.
